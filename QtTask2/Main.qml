@@ -42,24 +42,24 @@ Window {
             spacing: 20
             Button {
                 id: btnid1
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 text: " Rolls Royes "
                 onClicked: button1=true
                 visible : true;
             }
             Image {
                 id: imgid1
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 source: "file:rollsroyce.jpg"
                 visible : false;
             }
 
             Button {
                 id: btnid2
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 text: " Bently "
                 onClicked: button2=true
                 visible : true;
@@ -67,8 +67,8 @@ Window {
             }
             Image {
                 id: imgid2
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 visible : false;
                 source: img2
             }
@@ -78,32 +78,32 @@ Window {
             spacing: 20
             Button {
                 id: btnid3
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 text: " BMW "
                 onClicked: button3=true
                 visible : true;
             }
             Image {
                 id: imgid3
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 source: "qrc:/images/bmw.jpg"
                 visible : false;
             }
 
             Button {
                 id: btnid4
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 text: " Mercedes "
                 onClicked: button4=true
                 visible : true;
             }
             Image {
                 id: imgid4
-                width:  root.width/5
-                height: root.height/5
+                width:  root.width/4
+                height: root.height/4
                 source: img4
                 visible : false;
             }

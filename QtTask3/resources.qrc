@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audi.gif</file>
+        <file>itilogo.png</file>
+        <file>reverseaudi.gif</file>
+    </qresource>
+</RCC>

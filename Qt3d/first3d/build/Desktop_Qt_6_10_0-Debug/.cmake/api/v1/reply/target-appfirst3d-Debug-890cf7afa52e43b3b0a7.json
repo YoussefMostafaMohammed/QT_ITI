@@ -1,0 +1,1658 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appfirst3d"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"set_property",
+			"_qt_internal_find_third_party_dependencies",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"_qt_internal_write_deferred_qmlls_build_ini_file",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_target_qml_sources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DQuickExtras/Qt63DQuickExtrasTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DQuickExtras/Qt63DQuickExtrasConfig.cmake",
+			"build/Desktop_Qt_6_10_0-Debug/.qtc/package-manager/maintenance_tool_provider.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake",
+			"/home/youssef/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DCore/Qt63DCoreTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DCore/Qt63DCoreConfig.cmake",
+			"/home/youssef/Qt/Tools/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DCorePrivate/Qt63DCorePrivateDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DCorePrivate/Qt63DCorePrivateConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DQuick/Qt63DQuickDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DQuick/Qt63DQuickConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt63DQuickExtras/Qt63DQuickExtrasDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1086:EVAL",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:846:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1000,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 671,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 747,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 3,
+				"parent" : 8
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 52,
+				"parent" : 9
+			},
+			{
+				"file" : 2,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 6,
+				"parent" : 13
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 52,
+				"parent" : 14
+			},
+			{
+				"file" : 5,
+				"parent" : 15
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 16
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 40,
+				"parent" : 14
+			},
+			{
+				"file" : 11,
+				"parent" : 18
+			},
+			{
+				"command" : 10,
+				"file" : 11,
+				"line" : 45,
+				"parent" : 19
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 21
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 22
+			},
+			{
+				"file" : 8,
+				"parent" : 23
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 52,
+				"parent" : 24
+			},
+			{
+				"file" : 7,
+				"parent" : 25
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 26
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 1405,
+				"parent" : 28
+			},
+			{
+				"command" : 5,
+				"file" : 12,
+				"line" : 618,
+				"parent" : 29
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 31
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 32
+			},
+			{
+				"file" : 14,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 14,
+				"line" : 55,
+				"parent" : 34
+			},
+			{
+				"file" : 13,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 61,
+				"parent" : 36
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 16,
+				"parent" : 38
+			},
+			{
+				"command" : 7,
+				"file" : 16,
+				"line" : 52,
+				"parent" : 39
+			},
+			{
+				"file" : 15,
+				"parent" : 40
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 61,
+				"parent" : 41
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 43
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 44
+			},
+			{
+				"file" : 20,
+				"parent" : 45
+			},
+			{
+				"command" : 7,
+				"file" : 20,
+				"line" : 40,
+				"parent" : 46
+			},
+			{
+				"file" : 19,
+				"parent" : 47
+			},
+			{
+				"command" : 14,
+				"file" : 19,
+				"line" : 36,
+				"parent" : 48
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 36,
+				"parent" : 49
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 50
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 340,
+				"parent" : 51
+			},
+			{
+				"file" : 18,
+				"parent" : 52
+			},
+			{
+				"command" : 8,
+				"file" : 18,
+				"line" : 13,
+				"parent" : 53
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 340,
+				"parent" : 54
+			},
+			{
+				"file" : 17,
+				"parent" : 55
+			},
+			{
+				"command" : 13,
+				"file" : 17,
+				"line" : 712,
+				"parent" : 56
+			},
+			{
+				"command" : 6,
+				"file" : 17,
+				"line" : 710,
+				"parent" : 56
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 672,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 40,
+				"parent" : 9
+			},
+			{
+				"file" : 27,
+				"parent" : 60
+			},
+			{
+				"command" : 10,
+				"file" : 27,
+				"line" : 45,
+				"parent" : 61
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 62
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 63
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 64
+			},
+			{
+				"file" : 26,
+				"parent" : 65
+			},
+			{
+				"command" : 7,
+				"file" : 26,
+				"line" : 40,
+				"parent" : 66
+			},
+			{
+				"file" : 25,
+				"parent" : 67
+			},
+			{
+				"command" : 10,
+				"file" : 25,
+				"line" : 45,
+				"parent" : 68
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 69
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 70
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 71
+			},
+			{
+				"file" : 24,
+				"parent" : 72
+			},
+			{
+				"command" : 7,
+				"file" : 24,
+				"line" : 36,
+				"parent" : 73
+			},
+			{
+				"file" : 23,
+				"parent" : 74
+			},
+			{
+				"command" : 10,
+				"file" : 23,
+				"line" : 45,
+				"parent" : 75
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 142,
+				"parent" : 76
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 76,
+				"parent" : 77
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 78
+			},
+			{
+				"file" : 22,
+				"parent" : 79
+			},
+			{
+				"command" : 7,
+				"file" : 22,
+				"line" : 52,
+				"parent" : 80
+			},
+			{
+				"file" : 21,
+				"parent" : 81
+			},
+			{
+				"command" : 6,
+				"file" : 21,
+				"line" : 61,
+				"parent" : 82
+			},
+			{
+				"command" : 16,
+				"file" : 12,
+				"line" : 970,
+				"parent" : 29
+			},
+			{
+				"command" : 15,
+				"file" : 12,
+				"line" : 3107,
+				"parent" : 84
+			},
+			{
+				"command" : 16,
+				"file" : 12,
+				"line" : 976,
+				"parent" : 29
+			},
+			{
+				"command" : 15,
+				"file" : 12,
+				"line" : 3107,
+				"parent" : 86
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 28,
+				"line" : 1,
+				"parent" : 88
+			},
+			{
+				"command" : 15,
+				"file" : 12,
+				"line" : 1375,
+				"parent" : 89
+			},
+			{
+				"command" : 22,
+				"file" : 29,
+				"line" : 1,
+				"parent" : 88
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 877,
+				"parent" : 91
+			},
+			{
+				"command" : 20,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 92
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 93
+			},
+			{
+				"command" : 18,
+				"file" : 12,
+				"line" : 4767,
+				"parent" : 94
+			},
+			{
+				"command" : 15,
+				"file" : 12,
+				"line" : 4542,
+				"parent" : 95
+			},
+			{
+				"command" : 24,
+				"file" : 12,
+				"line" : 835,
+				"parent" : 29
+			},
+			{
+				"command" : 23,
+				"file" : 12,
+				"line" : 4240,
+				"parent" : 97
+			},
+			{
+				"command" : 23,
+				"file" : 12,
+				"line" : 4270,
+				"parent" : 97
+			},
+			{
+				"command" : 26,
+				"file" : 12,
+				"line" : 4065,
+				"parent" : 97
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 1546,
+				"parent" : 100
+			},
+			{
+				"command" : 25,
+				"file" : 12,
+				"line" : 4231,
+				"parent" : 97
+			},
+			{
+				"command" : 29,
+				"file" : 12,
+				"line" : 887,
+				"parent" : 29
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 103
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 104
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 105
+			},
+			{
+				"command" : 30,
+				"file" : 12,
+				"line" : 960,
+				"parent" : 29
+			},
+			{
+				"command" : 25,
+				"file" : 12,
+				"line" : 3578,
+				"parent" : 107
+			},
+			{
+				"command" : 31,
+				"file" : 12,
+				"line" : 3715,
+				"parent" : 107
+			},
+			{
+				"command" : 25,
+				"file" : 12,
+				"line" : 1868,
+				"parent" : 109
+			},
+			{
+				"command" : 25,
+				"file" : 12,
+				"line" : 3771,
+				"parent" : 107
+			},
+			{
+				"command" : 29,
+				"file" : 12,
+				"line" : 3863,
+				"parent" : 107
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 112
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 113
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 114
+			},
+			{
+				"command" : 29,
+				"file" : 12,
+				"line" : 3881,
+				"parent" : 107
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 116
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 117
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 118
+			},
+			{
+				"command" : 29,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 120
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 121
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 122
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 871,
+				"parent" : 91
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2257,
+				"parent" : 124
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 59,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DANIMATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DEXTRAS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DINPUT_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DLOGIC_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DQUICKEXTRAS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DQUICK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_3DRENDER_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 59,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMETA_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLWORKERSCRIPT_LIB"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen/include"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "/home/youssef/first3d"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 99,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlMeta"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlWorkerScript"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DRender"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DLogic"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DExtras"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DInput"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DAnimation"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DQuickExtras"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DCore/6.10.0"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/Qt3DCore/6.10.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtCore/6.10.0"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtCore/6.10.0/QtCore"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtGui/6.10.0"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtGui/6.10.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				5,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 85,
+			"id" : "appfirst3d_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 87,
+			"id" : "appfirst3d_copy_res::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 90,
+			"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 96,
+			"id" : "appfirst3d_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appfirst3d_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appfirst3d_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appfirst3d::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/tmp"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/youssef/Qt/6.10.0/gcc_64/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DAnimation.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DQuickExtras.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DExtras.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DRender.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DLogic.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DInput.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DQuick.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Quick.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlMeta.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlWorkerScript.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlModels.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Qml.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6OpenGL.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt63DCore.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Network.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 42,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Concurrent.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Gui.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 58,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 59,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Core.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 83,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libxkbcommon.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-rpath-link,/home/youssef/Qt/6.10.0/gcc_64/lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appfirst3d",
+	"nameOnDisk" : "appfirst3d",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				3,
+				4,
+				5,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				32,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				6,
+				29
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				2,
+				20,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				30
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				17,
+				18,
+				19,
+				21,
+				22,
+				31
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/qt6appfirst3d_metatypes.json.gen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appfirst3d_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_qmake_first3d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 108,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appfirst3d_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 111,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appfirst3d_Main_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 115,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appfirst3d_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 119,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appfirst3d_raw_res_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 123,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_first3d.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/first3d/qmldir",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_qml_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_res_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/resources.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/scene.gltf",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Fox/glTF/Fox.gltf",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Fox/glTF-Binary/Fox.glb",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Fox/glTF/Texture.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Fox/glTF/Fox.bin",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/scene.bin",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/pattern_2_1_baseColor.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/pattern_2_1_metallicRoughness.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/pattern_2_1_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/rubber___tires.001_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/tireProtector_baseColor.jpeg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/car/textures/tireProtector_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Duck/Duck.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Duck/maps/DuckCM.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "models/Duck/meshes/lod3spShape_mesh.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/qt6appfirst3d_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appfirst3d_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_qmake_first3d.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appfirst3d_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appfirst3d_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appfirst3d_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appfirst3d_raw_res_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_resources.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/appfirst3d_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 59,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 30,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 30,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6quick_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6gui_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlmeta_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlmodels_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlworkerscript_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6opengl_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dcore_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6concurrent_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63drender_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dlogic_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dextras_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dinput_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63danimation_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dquickextras_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt63dquick_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

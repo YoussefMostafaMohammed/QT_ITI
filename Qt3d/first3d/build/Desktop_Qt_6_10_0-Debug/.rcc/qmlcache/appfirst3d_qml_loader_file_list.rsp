@@ -1,0 +1,9 @@
+--resource
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_first3d.qrc
+--resource
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_qml_0.qrc
+--resource
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_res_0.qrc
+--resource
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/resources.qrc
+/qt/qml/first3d/Main.qml

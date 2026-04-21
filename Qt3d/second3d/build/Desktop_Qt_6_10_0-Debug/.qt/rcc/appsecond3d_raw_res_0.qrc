@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/second3d/">
+    <file alias="Resource.qrc">/home/youssef/second3d/Resource.qrc</file>
+  </qresource>
+</RCC>
+

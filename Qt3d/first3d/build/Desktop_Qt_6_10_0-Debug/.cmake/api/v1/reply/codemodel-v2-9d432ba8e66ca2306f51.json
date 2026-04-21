@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-50830a9471f0140796e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "first3d",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-1e885d14fa54d0258767.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4349eeb63cb43641b4a9.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bc646a947139ade664c1.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-0339c9ee5965f2f10411.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-df8f6db70df6b3433446.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d-Debug-890cf7afa52e43b3b0a7.json",
+					"name" : "appfirst3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_autogen-Debug-93d2bd6ec5188cfafc44.json",
+					"name" : "appfirst3d_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_autogen_timestamp_deps-Debug-26c8aa978e01d0d35562.json",
+					"name" : "appfirst3d_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_copy_qml-Debug-6f61a3ce5d37d8149e57.json",
+					"name" : "appfirst3d_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_copy_res-Debug-8eab9c4b3f78141f6298.json",
+					"name" : "appfirst3d_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_qmlimportscan-Debug-d4af6c4a2156ac2fb29f.json",
+					"name" : "appfirst3d_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_qmllint-Debug-7ec09426ddc9cedc0bd1.json",
+					"name" : "appfirst3d_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_qmllint_json-Debug-504b73481e29693fd07e.json",
+					"name" : "appfirst3d_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_qmllint_module-Debug-f398a18eb4e2a9ed5031.json",
+					"name" : "appfirst3d_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirst3d_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirst3d_qmltyperegistration-Debug-9e9f667dff2a8f8b44ce.json",
+					"name" : "appfirst3d_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-3be068c265b961529f0b.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appfirst3d_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appfirst3d_aotstats_target-Debug-b2531ca238ab6f2604e7.json",
+					"name" : "module_appfirst3d_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug",
+		"source" : "/home/youssef/first3d"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

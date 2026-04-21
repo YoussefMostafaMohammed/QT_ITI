@@ -1,0 +1,15 @@
+-rootPath
+/home/youssef/second3d
+-cmake-output
+-output-file
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/qml_imports/appsecond3d_conf.cmake
+-importPath
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/second3d
+-importPath
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug
+-importPath
+/home/youssef/Qt/6.10.0/gcc_64/qml
+-qrcFiles
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_second3d.qrc
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appsecond3d_raw_qml_0.qrc
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/car_resources.qrc

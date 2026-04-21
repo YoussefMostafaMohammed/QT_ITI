@@ -1,0 +1,6 @@
+module second3d
+typeinfo appsecond3d.qmltypes
+prefer :/qt/qml/second3d/
+Main 1.0 Main.qml
+depends QtQuick
+

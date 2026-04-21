@@ -1,0 +1,6 @@
+module first3d
+typeinfo appfirst3d.qmltypes
+prefer :/qt/qml/first3d/
+Main 1.0 Main.qml
+depends QtQuick
+

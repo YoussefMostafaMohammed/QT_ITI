@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/first3d/">
+    <file alias="Main.qml">/home/youssef/first3d/Main.qml</file>
+  </qresource>
+</RCC>
+

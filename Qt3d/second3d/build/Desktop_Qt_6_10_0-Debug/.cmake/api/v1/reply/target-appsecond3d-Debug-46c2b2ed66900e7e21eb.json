@@ -1,0 +1,2523 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appsecond3d"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"set_property",
+			"_qt_internal_find_third_party_dependencies",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"_qt_internal_write_deferred_qmlls_build_ini_file",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_target_qml_sources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"qt_add_resources",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick3D/Qt6Quick3DTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick3D/Qt6Quick3DConfig.cmake",
+			"build/Desktop_Qt_6_10_0-Debug/.qtc/package-manager/maintenance_tool_provider.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderConfig.cmake",
+			"/home/youssef/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick3D/Qt6Quick3DDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"/home/youssef/Qt/Tools/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1086:EVAL",
+			"/home/youssef/Qt/6.10.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:846:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1000,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 671,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 747,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 252,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 244,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 3,
+				"parent" : 8
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 52,
+				"parent" : 9
+			},
+			{
+				"file" : 2,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 11
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 40,
+				"parent" : 9
+			},
+			{
+				"file" : 9,
+				"parent" : 13
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 45,
+				"parent" : 14
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 17
+			},
+			{
+				"file" : 6,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 52,
+				"parent" : 19
+			},
+			{
+				"file" : 5,
+				"parent" : 20
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 21
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 11,
+				"parent" : 23
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 52,
+				"parent" : 24
+			},
+			{
+				"file" : 10,
+				"parent" : 25
+			},
+			{
+				"command" : 6,
+				"file" : 10,
+				"line" : 61,
+				"parent" : 26
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 40,
+				"parent" : 24
+			},
+			{
+				"file" : 14,
+				"parent" : 28
+			},
+			{
+				"command" : 10,
+				"file" : 14,
+				"line" : 45,
+				"parent" : 29
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 31
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 32
+			},
+			{
+				"file" : 13,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 13,
+				"line" : 52,
+				"parent" : 34
+			},
+			{
+				"file" : 12,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 12,
+				"line" : 61,
+				"parent" : 36
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 15,
+				"line" : 1405,
+				"parent" : 38
+			},
+			{
+				"command" : 5,
+				"file" : 15,
+				"line" : 618,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 41
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 333,
+				"parent" : 42
+			},
+			{
+				"file" : 17,
+				"parent" : 43
+			},
+			{
+				"command" : 7,
+				"file" : 17,
+				"line" : 55,
+				"parent" : 44
+			},
+			{
+				"file" : 16,
+				"parent" : 45
+			},
+			{
+				"command" : 6,
+				"file" : 16,
+				"line" : 61,
+				"parent" : 46
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 315,
+				"parent" : 7
+			},
+			{
+				"file" : 21,
+				"parent" : 48
+			},
+			{
+				"command" : 7,
+				"file" : 21,
+				"line" : 40,
+				"parent" : 49
+			},
+			{
+				"file" : 20,
+				"parent" : 50
+			},
+			{
+				"command" : 14,
+				"file" : 20,
+				"line" : 36,
+				"parent" : 51
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 36,
+				"parent" : 52
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 53
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 340,
+				"parent" : 54
+			},
+			{
+				"file" : 19,
+				"parent" : 55
+			},
+			{
+				"command" : 8,
+				"file" : 19,
+				"line" : 13,
+				"parent" : 56
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 340,
+				"parent" : 57
+			},
+			{
+				"file" : 18,
+				"parent" : 58
+			},
+			{
+				"command" : 13,
+				"file" : 18,
+				"line" : 712,
+				"parent" : 59
+			},
+			{
+				"command" : 6,
+				"file" : 18,
+				"line" : 710,
+				"parent" : 59
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 672,
+				"parent" : 2
+			},
+			{
+				"command" : 16,
+				"file" : 15,
+				"line" : 970,
+				"parent" : 39
+			},
+			{
+				"command" : 15,
+				"file" : 15,
+				"line" : 3107,
+				"parent" : 63
+			},
+			{
+				"command" : 16,
+				"file" : 15,
+				"line" : 976,
+				"parent" : 39
+			},
+			{
+				"command" : 15,
+				"file" : 15,
+				"line" : 3107,
+				"parent" : 65
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 22,
+				"line" : 1,
+				"parent" : 67
+			},
+			{
+				"command" : 15,
+				"file" : 15,
+				"line" : 1375,
+				"parent" : 68
+			},
+			{
+				"command" : 22,
+				"file" : 23,
+				"line" : 1,
+				"parent" : 67
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 877,
+				"parent" : 70
+			},
+			{
+				"command" : 20,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 71
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 72
+			},
+			{
+				"command" : 18,
+				"file" : 15,
+				"line" : 4767,
+				"parent" : 73
+			},
+			{
+				"command" : 15,
+				"file" : 15,
+				"line" : 4542,
+				"parent" : 74
+			},
+			{
+				"command" : 24,
+				"file" : 15,
+				"line" : 835,
+				"parent" : 39
+			},
+			{
+				"command" : 23,
+				"file" : 15,
+				"line" : 4240,
+				"parent" : 76
+			},
+			{
+				"command" : 23,
+				"file" : 15,
+				"line" : 4270,
+				"parent" : 76
+			},
+			{
+				"command" : 26,
+				"file" : 15,
+				"line" : 4065,
+				"parent" : 76
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 1546,
+				"parent" : 79
+			},
+			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 4231,
+				"parent" : 76
+			},
+			{
+				"command" : 29,
+				"file" : 15,
+				"line" : 887,
+				"parent" : 39
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 82
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 83
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 84
+			},
+			{
+				"command" : 30,
+				"file" : 15,
+				"line" : 960,
+				"parent" : 39
+			},
+			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 3578,
+				"parent" : 86
+			},
+			{
+				"command" : 31,
+				"file" : 15,
+				"line" : 3715,
+				"parent" : 86
+			},
+			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 1868,
+				"parent" : 88
+			},
+			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 3771,
+				"parent" : 86
+			},
+			{
+				"command" : 29,
+				"file" : 15,
+				"line" : 3863,
+				"parent" : 86
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 91
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 92
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 93
+			},
+			{
+				"command" : 32,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 29,
+				"file" : 0,
+				"line" : 485,
+				"parent" : 95
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 405,
+				"parent" : 96
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 97
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 98
+			},
+			{
+				"command" : 33,
+				"file" : 0,
+				"line" : 871,
+				"parent" : 70
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2257,
+				"parent" : 100
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 62,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMETA_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLWORKERSCRIPT_LIB"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK3DRUNTIMERENDER_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK3DUTILS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK3D_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_SHADERTOOLS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/appsecond3d_autogen/include"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "/home/youssef/second3d"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 78,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlMeta"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQmlWorkerScript"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQuick3D"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQuick3DRuntimeRender"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtQuick3DUtils"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtShaderTools"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/youssef/Qt/6.10.0/gcc_64/include/QtConcurrent"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 64,
+			"id" : "appsecond3d_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 66,
+			"id" : "appsecond3d_copy_res::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 69,
+			"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 75,
+			"id" : "appsecond3d_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appsecond3d_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appsecond3d_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appsecond3d::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/tmp"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/youssef/Qt/6.10.0/gcc_64/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Quick3D.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Quick3DRuntimeRender.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Quick3DUtils.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Quick.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlMeta.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlWorkerScript.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6QmlModels.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Qml.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Network.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6OpenGL.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6ShaderTools.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Gui.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 61,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Concurrent.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 62,
+				"fragment" : "/home/youssef/Qt/6.10.0/gcc_64/lib/libQt6Core.so.6.10.0",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-rpath-link,/home/youssef/Qt/6.10.0/gcc_64/lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appsecond3d",
+	"nameOnDisk" : "appsecond3d",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				4,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				220,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				5,
+				14
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appsecond3d_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 80,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/qt6appsecond3d_metatypes.json.gen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 81,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appsecond3d_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 85,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_qmake_second3d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 87,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 89,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appsecond3d_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 90,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appsecond3d_Main_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 94,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appsecond3d_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 99,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_car_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_second3d.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/second3d/qmldir",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appsecond3d_raw_qml_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/car_resources.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/Scene.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/pattern_2_1_baseColor.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/pattern_2_1_metallicRoughness.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/pattern_2_1_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/rubber___tires.001_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/tireProtector_baseColor.jpeg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/maps/tireProtector_normal.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_001_Mesh6_004_Dupli__brakeCalipers_0_mesh88.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_001_Mesh7_004_Dupli_1_metal_1_001_0_mesh91.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_002_Mesh6_004_Dupli__brakeCalipers_0_mesh125.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_002_Mesh7_004_Dupli_1_metal_1_001_0_mesh128.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_003_Mesh6_004_Dupli__brakeCalipers_0_mesh155.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_003_Mesh7_004_Dupli_1_metal_1_001_0_mesh158.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_Mesh6_004_Dupli__brakeCalipers_0_mesh44.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/brakes_Coll_Mesh7_004_Dupli_1_metal_1_001_0_mesh48.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/circle_blockers_0_mesh532.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_020_body_0_mesh664.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_021_chrome_0_mesh452.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_022_taillight_cover_0_mesh455.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_023_glass_0_mesh459.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_024_glass_0_mesh463.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_025_body_0_mesh466.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_026_body_0_mesh470.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_027_body_0_mesh473.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_028_body_0_mesh476.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_029_headlight_cover_0_mesh479.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_030_body_0_mesh483.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_031_plastic_matte_3_0_mesh486.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_032_plastic_matte_3_0_mesh490.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_033_plastic_matte_3_0_mesh493.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_034_body_0_mesh496.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_035_body_0_mesh667.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_036_plastic_matte_3_0_mesh670.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_037_chrome_0_mesh673.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_038_blockers_0_mesh502.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_039_chrome_0_mesh505.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_040_taillight_chrome_0_mesh508.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_047_body_0_mesh512.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_048_glass_0_mesh676.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_049_plastic_matte_3_0_mesh516.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_050_plastic_matte_3_0_mesh679.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_051_body_0_mesh520.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_052_body_0_mesh523.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_053_chrome_0_mesh526.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_054_plastic_smooth_0_mesh550.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_055_body_0_mesh691.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_056_plastic_smooth_0_mesh553.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_057_chrome_2_0_mesh556.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_058_blocker_0_mesh559.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_059_pattern_2_1_0_mesh562.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_060_blocker_0_mesh583.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_060_light001_0_mesh580.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_060_plastic_smooth_0_mesh577.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_061_plastic_matte_2_0_mesh586.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_062_metal_dark_2_0_mesh589.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_072_plastic_smooth_0_mesh210.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_073_plastic_smooth_0_mesh213.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_078_plastic_smooth_0_mesh179.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_079_chrome_2_0_mesh183.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_080_pattern_2_1_0_mesh187.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_087_blockerBlackHole_0_mesh273.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_091_light001_0_mesh228.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_092_light001_0_mesh231.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_093_light001_0_mesh234.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_094_light001_0_mesh240.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_095_light001_0_mesh243.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_096_light001_0_mesh246.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_097_light001_0_mesh252.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_098_light001_0_mesh255.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_099_light001_0_mesh258.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_100_light001_0_mesh264.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_101_light001_0_mesh267.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_102_light001_0_mesh270.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_105_blockers_0_mesh529.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_106_glass_0_mesh682.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_107_body_0_mesh685.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_108_plastic_matte_3_0_mesh688.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_109_plastic_smooth_0_mesh598.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_110_plastic_matte_3_0_mesh694.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_111_plastic_smooth_0_mesh601.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_112_chrome_2_0_mesh604.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_113_blocker_0_mesh607.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_114_pattern_2_1_0_mesh610.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_115_blocker_0_mesh631.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_115_light001_0_mesh628.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_115_plastic_smooth_0_mesh625.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_116_plastic_matte_2_0_mesh634.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_117_metal_dark_2_0_mesh637.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_118_chrome_0_mesh697.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_127_blockers_0_mesh700.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cube_128_blockers_0_mesh703.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_006_metal_1_0_mesh652.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_007_metal_1_0_mesh655.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_008_metal_1_0_mesh437.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_009_metal_1_0_mesh433.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_010_metal_1_0_mesh706.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_011_metal_1_0_mesh658.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_012_metal_1_0_mesh441.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_013_metal_1_0_mesh661.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_014_metal_1_0_mesh445.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/cylinder_015_metal_1_0_mesh709.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/main_outline_001_blocker_0_mesh384.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/main_outline_blocker_0_mesh347.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_008_metal_dark_0_mesh322.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_009_metal_dark_0_mesh332.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_010_metal_dark_0_mesh341.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_011_metal_dark_0_mesh344.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_012_metal_dark_2_0_mesh565.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_013_metal_dark_2_0_mesh568.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_014_metal_dark_2_0_mesh571.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_015_metal_dark_2_0_mesh574.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_017_metal_dark_0_mesh360.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_018_metal_dark_0_mesh369.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_020_metal_dark_0_mesh378.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_021_metal_dark_0_mesh381.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_030_metal_dark_2_0_mesh592.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_031_metal_dark_2_0_mesh595.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_032_metal_dark_2_0_mesh613.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_033_metal_dark_2_0_mesh616.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_034_metal_dark_2_0_mesh619.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_035_metal_dark_2_0_mesh622.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_036_metal_dark_2_0_mesh640.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/nut_037_metal_dark_2_0_mesh643.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_102_plastic_smooth_0_mesh313.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_103_plastic_smooth_0_mesh316.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_104_plastic_matte_0_mesh319.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_105_pattern_2_1_0_mesh326.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_106_pattern_2_1_0_mesh329.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_107_plastic_smooth_0_mesh335.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_108_plastic_smooth_0_mesh338.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_110_plastic_smooth_0_mesh387.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_111_plastic_smooth_0_mesh646.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_115_plastic_smooth_0_mesh351.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_116_plastic_smooth_0_mesh354.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_117_plastic_matte_0_mesh357.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_118_pattern_2_1_0_mesh363.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_119_pattern_2_1_0_mesh366.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_120_plastic_smooth_0_mesh372.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_121_plastic_smooth_0_mesh375.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_123_plastic_smooth_0_mesh391.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_124_pattern_2_1_0_mesh394.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_125_plastic_smooth_0_mesh397.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_126_blockerBlackHole_0_mesh400.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_127_floorMat_0_mesh403.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_128_floorMat_0_mesh407.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_129_chrome_0_mesh410.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_130_plastic_smooth_0_mesh414.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_131_plastic_smooth_0_mesh649.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_132_Metal_3_0_mesh418.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_133_Metal_3_0_mesh422.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_134_metal_dark_0_mesh425.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/plane_135_metal_dark_0_mesh428.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/sw_base_001_plastic_smooth_0_mesh276.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/sw_base_002_plastic_smooth_0_mesh279.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/sw_base_blocker_0_mesh206.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/sw_base_plastic_smooth_0_mesh204.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_004_light001_0_mesh222.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_005_light001_0_mesh225.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_006_light001_0_mesh237.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_007_light001_0_mesh249.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_008_light001_0_mesh261.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_009_light001_0_mesh448.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/text_light001_0_mesh218.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_001_Mesh5_004_Dupli__rubber___tires_001_0_mesh53.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_001_Mesh5_004_Dupli__tireProtector_0_mesh55.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_002_Mesh5_004_Dupli__rubber___tires_001_0_mesh119.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_002_Mesh5_004_Dupli__tireProtector_0_mesh121.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_003_Mesh5_004_Dupli__rubber___tires_001_0_mesh59.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_003_Mesh5_004_Dupli__tireProtector_0_mesh61.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_Mesh5_004_Dupli__rubber___tires_001_0_mesh33.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/tire_v001_Coll_Mesh5_004_Dupli__tireProtector_0_mesh37.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/torus_003_plastic_smooth_0_mesh195.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/torus_007_chrome_2_0_mesh198.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/torus_008_pattern_2_1_0_mesh201.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Cube_015_Dupli_2_rims_001_0_mesh103.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Cube_016_Dupli_3_rims_001_0_mesh106.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Cube_017_Dupli_4_rims_001_0_mesh109.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Cube_018_Dupli_5_rims_001_0_mesh112.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Cube_019_Dupli_6_rims_001_0_mesh115.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Plane_004_Dupli_1_rims_001_0_mesh100.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_001_Plane_005_Dupli__rims_001_0_mesh97.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Cube_015_Dupli_2_rims_001_0_mesh72.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Cube_016_Dupli_3_rims_001_0_mesh75.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Cube_017_Dupli_4_rims_001_0_mesh78.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Cube_018_Dupli_5_rims_001_0_mesh81.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Cube_019_Dupli_6_rims_001_0_mesh84.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Plane_004_Dupli_1_rims_001_0_mesh69.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_002_Plane_005_Dupli__rims_001_0_mesh66.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Cube_015_Dupli_2_rims_001_0_mesh139.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Cube_016_Dupli_3_rims_001_0_mesh142.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Cube_017_Dupli_4_rims_001_0_mesh145.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Cube_018_Dupli_5_rims_001_0_mesh148.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Cube_019_Dupli_6_rims_001_0_mesh151.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Plane_004_Dupli_1_rims_001_0_mesh136.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_003_Plane_005_Dupli__rims_001_0_mesh133.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Cube_015_Dupli_2_rims_001_0_mesh17.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Cube_016_Dupli_3_rims_001_0_mesh20.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Cube_017_Dupli_4_rims_001_0_mesh23.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Cube_018_Dupli_5_rims_001_0_mesh26.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Cube_019_Dupli_6_rims_001_0_mesh29.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Plane_004_Dupli_1_rims_001_0_mesh14.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheelCON_v006_Coll_Plane_005_Dupli__rims_001_0_mesh10.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheel_cover_001_wheel_cover_Dupli__metal_dark_2_0_mesh162.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheel_cover_002_wheel_cover_Dupli__metal_dark_2_0_mesh167.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheel_cover_003_wheel_cover_Dupli__metal_dark_2_0_mesh171.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 101,
+			"path" : "models/car/out/meshes/wheel_cover_004_wheel_cover_Dupli__metal_dark_2_0_mesh175.mesh",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appsecond3d_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/qt6appsecond3d_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appsecond3d_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_qmake_second3d.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appsecond3d_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.rcc/qmlcache/appsecond3d_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_appsecond3d_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qrc_car_resources.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/appsecond3d_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_0-Debug/meta_types/appsecond3d_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 62,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6gui_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6quick_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlmeta_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlmodels_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6qmlworkerscript_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6opengl_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6quick3d_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6quick3druntimerender_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6quick3dutils_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6shadertools_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/home/youssef/Qt/6.10.0/gcc_64/metatypes/qt6concurrent_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appsecond3d_FILE /home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/appsecond3d)
+set(__QT_DEPLOY_TARGET_appsecond3d_TYPE EXECUTABLE)

@@ -1,0 +1,16 @@
+-rootPath
+/home/youssef/first3d
+-cmake-output
+-output-file
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/qml_imports/appfirst3d_conf.cmake
+-importPath
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/first3d
+-importPath
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug
+-importPath
+/home/youssef/Qt/6.10.0/gcc_64/qml
+-qrcFiles
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_first3d.qrc
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_qml_0.qrc
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appfirst3d_raw_res_0.qrc
+/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/resources.qrc

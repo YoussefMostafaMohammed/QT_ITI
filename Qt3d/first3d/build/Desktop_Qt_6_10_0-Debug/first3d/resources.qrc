@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>models/Fox/glTF/Fox.gltf</file>
+        <file>models/Fox/glTF-Binary/Fox.glb</file>
+        <file>models/Fox/glTF/Fox.bin</file>
+      	<file>models/Fox/glTF/Texture.png</file>
+        <file>Main.qml</file>
+        <file>models/Duck/Duck.qml</file>
+        <file>models/Duck/meshes/lod3spShape_mesh.mesh</file>
+        <file>models/Duck/maps/DuckCM.png</file>
+        <file>models/car/scene.gltf</file>
+        <file>models/car/scene.bin</file>
+        <file>models/car/textures/pattern_2_1_baseColor.png</file>
+        <file>models/car/textures/pattern_2_1_metallicRoughness.png</file>
+        <file>models/car/textures/pattern_2_1_normal.png</file>
+        <file>models/car/textures/rubber___tires.001_normal.png</file>
+        <file>models/car/textures/tireProtector_baseColor.jpeg</file>
+        <file>models/car/textures/tireProtector_normal.png</file>
+    </qresource>
+</RCC>

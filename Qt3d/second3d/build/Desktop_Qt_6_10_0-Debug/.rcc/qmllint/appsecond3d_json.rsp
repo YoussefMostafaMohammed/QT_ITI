@@ -1,0 +1,14 @@
+--bare
+-I
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug
+-I
+/home/youssef/Qt/6.10.0/gcc_64/qml
+--resource
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/qmake_second3d.qrc
+--resource
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/appsecond3d_raw_qml_0.qrc
+--resource
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/.qt/rcc/car_resources.qrc
+/home/youssef/second3d/Main.qml
+--json
+/home/youssef/second3d/build/Desktop_Qt_6_10_0-Debug/appsecond3d_qmllint.json

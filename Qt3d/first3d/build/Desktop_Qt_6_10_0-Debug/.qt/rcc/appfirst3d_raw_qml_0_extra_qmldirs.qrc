@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/first3d/">
+    <file alias="models/Duck/qmldir">/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/first3d/models/Duck/qmldir</file>
+  </qresource>
+</RCC>
+

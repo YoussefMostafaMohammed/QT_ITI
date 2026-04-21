@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="Main.qml">/home/youssef/first3d/Main.qml</file>
+    <file alias="models/car/scene.gltf">/home/youssef/first3d/models/car/scene.gltf</file>
+    <file alias="models/Fox/glTF/Fox.gltf">/home/youssef/first3d/models/Fox/glTF/Fox.gltf</file>
+    <file alias="models/Fox/glTF-Binary/Fox.glb">/home/youssef/first3d/models/Fox/glTF-Binary/Fox.glb</file>
+    <file alias="models/Fox/glTF/Texture.png">/home/youssef/first3d/models/Fox/glTF/Texture.png</file>
+    <file alias="models/Fox/glTF/Fox.bin">/home/youssef/first3d/models/Fox/glTF/Fox.bin</file>
+    <file alias="models/car/scene.bin">/home/youssef/first3d/models/car/scene.bin</file>
+    <file alias="models/car/textures/pattern_2_1_baseColor.png">/home/youssef/first3d/models/car/textures/pattern_2_1_baseColor.png</file>
+    <file alias="models/car/textures/pattern_2_1_metallicRoughness.png">/home/youssef/first3d/models/car/textures/pattern_2_1_metallicRoughness.png</file>
+    <file alias="models/car/textures/pattern_2_1_normal.png">/home/youssef/first3d/models/car/textures/pattern_2_1_normal.png</file>
+    <file alias="models/car/textures/rubber___tires.001_normal.png">/home/youssef/first3d/models/car/textures/rubber___tires.001_normal.png</file>
+    <file alias="models/car/textures/tireProtector_baseColor.jpeg">/home/youssef/first3d/models/car/textures/tireProtector_baseColor.jpeg</file>
+    <file alias="models/car/textures/tireProtector_normal.png">/home/youssef/first3d/models/car/textures/tireProtector_normal.png</file>
+    <file alias="models/Duck/Duck.qml">/home/youssef/first3d/models/Duck/Duck.qml</file>
+    <file alias="models/Duck/maps/DuckCM.png">/home/youssef/first3d/models/Duck/maps/DuckCM.png</file>
+    <file alias="models/Duck/meshes/lod3spShape_mesh.mesh">/home/youssef/first3d/models/Duck/meshes/lod3spShape_mesh.mesh</file>
+  </qresource>
+</RCC>
+

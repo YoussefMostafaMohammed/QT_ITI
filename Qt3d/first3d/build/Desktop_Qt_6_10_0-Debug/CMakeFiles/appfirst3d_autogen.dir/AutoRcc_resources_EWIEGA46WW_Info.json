@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen",
+	"CMAKE_BINARY_DIR" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/youssef/first3d",
+	"CMAKE_SOURCE_DIR" : "/home/youssef/first3d",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/appfirst3d_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/youssef/first3d/Main.qml",
+		"/home/youssef/first3d/models/car/scene.gltf",
+		"/home/youssef/first3d/models/car/scene.bin",
+		"/home/youssef/first3d/models/car/textures/tireProtector_baseColor.jpeg",
+		"/home/youssef/first3d/models/car/textures/pattern_2_1_baseColor.png",
+		"/home/youssef/first3d/models/car/textures/rubber___tires.001_normal.png",
+		"/home/youssef/first3d/models/car/textures/pattern_2_1_normal.png",
+		"/home/youssef/first3d/models/car/textures/tireProtector_normal.png",
+		"/home/youssef/first3d/models/car/textures/pattern_2_1_metallicRoughness.png"
+	],
+	"LOCK_FILE" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/appfirst3d_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/youssef/Qt/6.10.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/youssef/first3d/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/appfirst3d_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/youssef/first3d/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
